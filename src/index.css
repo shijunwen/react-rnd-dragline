@@ -1,0 +1,9 @@
+.draggableBlock {
+  position: relative;
+  width: 1200px;
+  box-shadow: rgb(204, 204, 204) 0px 0px 5px 1px inset;
+  background: rgb(245, 248, 250);
+  color: rgb(74, 74, 74);
+  margin: 20px;
+
+}
